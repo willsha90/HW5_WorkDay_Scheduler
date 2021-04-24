@@ -31,9 +31,9 @@ function saveBtn(index, row) {
     $(row).find("button").click(handleSave);
 }
 function handleSave(){
-    var row = $(this).parent();
+    var row = git(this).parent();
     var id = row.attr("id");
     var appt = row.find("textarea").val();
     localStorage.setItem(id,appt);
-         
+
 }
