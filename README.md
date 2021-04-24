@@ -2,4 +2,8 @@ The purpose of this application was to design an application where the user was 
 
 Additionally, the user is able to input data, close the application and revisit it at another time, without losing their data. This was accomplished via the local storage application.
 
-Lastly, this application includes a aesthetic styling to compliment the user experience. 
+Lastly, this application includes a aesthetic styling to compliment the user experience.    
+
+
+Access application: https://willsha90.github.io/HW5_WorkDay_Scheduler/
+![Screenshot](Assets\Screenshot.JPG )
